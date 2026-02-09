@@ -3,6 +3,7 @@
 .env.production
 node_modules
 dist
+build
 .vercel
 *.log
 .DS_Store
